@@ -18,5 +18,19 @@ function run()
           randomnumbertwo = getMathRandom(0,100)
           randomnumberthree = getMathRandom(0,100)
   function equation()
-            
+            if randomnumber = 1 then
+              print(randomnumbertwo .. "+" .. randomnumberthree)
+            elseif
+              randomnumber = 2 then
+              print(randomnumnertwo .. "-" .. randomnumber3)
+            elseif
+              randomnumber = 3 then
+              print(randomnumnertwo .. "/" .. randomnumber3)
+            elseif
+              randomnumber = 4 then
+              print(randomnumnertwo .. "*" .. randomnumber3)
+            else
+              print("error")
+  function equationsolve
+                print("=" .. randomnumbertwo .. symbol .. randomnumber3)
           
