@@ -34,3 +34,8 @@ function run()
   function equationsolve
                 print("=" .. randomnumbertwo .. symbol .. randomnumber3)
           
+  getsymbol()
+  getrandomnumber()
+  equation()
+  equationsolve()
+run()
